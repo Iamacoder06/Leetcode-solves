@@ -10,8 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Iamacoder06/Leetcode-solves/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Iamacoder06/Leetcode-solves/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Iamacoder06/Leetcode-solves/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Iamacoder06/Leetcode-solves/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Iamacoder06/Leetcode-solves/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
